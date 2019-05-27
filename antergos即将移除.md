@@ -1,0 +1,4 @@
+由于antergos停止维护 https://antergos.com/blog/antergos-linux-project-ends/
+按照其计划，antergos将会发布最后一次更新将用户迁移到arch
+请antergos关注并了解相关动态并即使跟进官方更新
+我们已经暂停了antergos的镜像同步并将三个月后删除antergos
