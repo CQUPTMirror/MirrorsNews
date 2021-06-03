@@ -4,4 +4,16 @@
 }, {
   "title": "test",
   "content": "测试公告"
+}, {
+  "title": "链接测试1",
+  "content": "https://baidu.com"
+}, {
+  "title": "链接测试2",
+  "content": "<a href="https://redrock.team">Redrock</a>"
+}, {
+  "title": "https://redrock.team",
+  "content": ""
+}, {
+  "title": "<a href="https://redrock.team">链接测试4</a>",
+  "content": ""
 }]
